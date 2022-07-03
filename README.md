@@ -15,10 +15,10 @@
 
 
 ## Results
-<h5> Qualitative Results <h5/>
+<h4> 1. Qualitative Results <h5/>
 <img width="80%" src="https://user-images.githubusercontent.com/63233441/177045919-2408f2b3-cef6-4f3e-b87f-c3c7659d43eb.png"/>
   
-<h5> Quantitative Results <h5/>
+<h4> 2. Quantitative Results <h5/>
   
 | Method | Complete | Recall | Precision | F-Score |
 | ---| --- | --- |--- |  ---|
